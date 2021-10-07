@@ -1,3 +1,5 @@
+**This is deprecated and only works for Microsoft Outlook for Mac versions <16.16.20**
+
 # OutlookURLHandler
 
 Enables `outlook://msg-id` style links anywhere on OS X.
